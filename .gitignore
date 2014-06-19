@@ -222,6 +222,7 @@ minecraft/config/NEI/
 minecraft/crash-reports/
 minecraft/liteconfig/
 minecraft/logs/
+minecraft/reports/
 minecraft/saves/
 minecraft/options.txt
 natives/
