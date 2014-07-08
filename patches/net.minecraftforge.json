@@ -26,7 +26,7 @@
         },
         {
             "insert": "prepend",
-            "name": "net.minecraftforge:forge:1.7.2-10.12.2.1126",
+            "name": "net.minecraftforge:forge:1.7.2-10.12.2.1161-mc172",
             "url": "http://files.minecraftforge.net/maven/"
         }
     ],
@@ -39,5 +39,5 @@
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} --uuid ${auth_uuid} --accessToken ${auth_access_token} ",
     "name": "Forge",
     "order": 5,
-    "version": "10.12.2.1126"
+    "version": "10.12.2.1161-mc172"
 }

@@ -224,5 +224,6 @@ minecraft/liteconfig/
 minecraft/logs/
 minecraft/reports/
 minecraft/saves/
+minecraft/screenshots/
 minecraft/options.txt
 natives/
