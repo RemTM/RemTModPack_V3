@@ -40,9 +40,8 @@ If any of the rules are broken with no clear reason as to why it was broken, the
 Known Bugs/Issues/Imbalances:
 =============================
 
-These are all known bugs/issues/imbalances as of 18/06/2014 (AEST):
+For all known bugs/issues/imbalances, please go here: https://github.com/RemTM/RemTModPack_V3/issues
 
-No currently known bugs, issues or imbalances
 
 Modlist:
 ========
