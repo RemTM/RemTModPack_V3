@@ -9,10 +9,10 @@
             "name": "org.ow2.asm:asm-all:4.1"
         },
         {
-            "MMC-absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.2/liteloader-1.7.2_04.jar",
+            "MMC-absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_01.jar",
             "MMC-depend": "hard",
             "insert": "prepend",
-            "name": "com.mumfrey:liteloader:1.7.2_04"
+            "name": "com.mumfrey:liteloader:1.7.10_01"
         }
     ],
     "+tweakers": [
@@ -20,8 +20,8 @@
     ],
     "fileId": "com.mumfrey.liteloader",
     "mainClass": "net.minecraft.launchwrapper.Launch",
-    "mcVersion": "1.7.2",
+    "mcVersion": "1.7.10",
     "name": "LiteLoader",
     "order": 10,
-    "version": "1.7.2_04"
+    "version": "1.7.10_01"
 }

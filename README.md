@@ -47,17 +47,18 @@ No currently known bugs, issues or imbalances
 Modlist:
 ========
 
-For the first time ever with RemTModPack, a running list of all mods and their current versions will be available here.
+For the first time ever with RemTModPack, a running list of all mods and their current versions will be made available.
 
-Current Minecraft Version: 1.7.2
+Current Minecraft Version: 1.7.10
 
-Installed Mods:
-- Forge 10.12.2.1126
+Please check the "Mod List.xlsx" file for a list of mods currently installed in the modpack.
 
 Changelog:
 ==========
 
 Note: All dates listed are in the format DD/MM/YYYY according to Australian Eastern Standard Time (AEST)
+
+Changelog outdated, needs updating
 
 18/06/2014 (V3.0.0):
 - Basic base files uploaded
