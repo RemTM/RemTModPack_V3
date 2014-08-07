@@ -110,7 +110,7 @@
         },
         {
             "insert": "prepend",
-            "name": "net.minecraftforge:forge:1.7.10-10.13.0.1188",
+            "name": "net.minecraftforge:forge:1.7.10-10.13.0.1199",
             "url": "http://files.minecraftforge.net/maven/"
         }
     ],
@@ -123,5 +123,5 @@
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} ",
     "name": "Forge",
     "order": 5,
-    "version": "10.13.0.1188"
+    "version": "10.13.0.1199"
 }
