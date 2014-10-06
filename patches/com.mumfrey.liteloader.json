@@ -7,10 +7,10 @@
             "name": "org.ow2.asm:asm-all:4.1"
         },
         {
-            "MMC-absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_02.jar",
+            "MMC-absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_03.jar",
             "MMC-depend": "hard",
             "insert": "prepend",
-            "name": "com.mumfrey:liteloader:1.7.10_02"
+            "name": "com.mumfrey:liteloader:1.7.10_03"
         }
     ],
     "+tweakers": [
@@ -21,5 +21,5 @@
     "mcVersion": "1.7.10",
     "name": "LiteLoader",
     "order": 10,
-    "version": "1.7.10_02"
+    "version": "1.7.10_03"
 }

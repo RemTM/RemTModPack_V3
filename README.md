@@ -35,13 +35,14 @@ If you are allowed to create a book/portal to any dimension as stated by either 
 Rule #6
 Aiding of other players in any fashion is allowed, as long as it does not conflict with the 4th and 5th rules. Players are encouraged to trade resources fairly, but will not be enforced. Players may also team up with other players if they so wish.
 
-If any of the rules are broken with no clear reason as to why it was broken, the player who broke the rule(s) will be punished. The severity of the punishment will be decided by the server admin, as well as any appointed server Ops, while taking into account any opinions voiced by any other players involved.
+If any of the rules are broken with no clear reason as to why it was broken, the player who broke the rule(s) will be punished. The decision and severity of the punishment will be decided by the server admin, as well as any appointed server Ops, while taking into account any opinions voiced by any other players involved.
+
+Note: These server rules may be changed at any time. An update will be released on all related sites if this is to occur.
 
 Known Bugs/Issues/Imbalances:
 =============================
 
 For all known bugs/issues/imbalances, please go here: https://github.com/RemTM/RemTModPack_V3/issues
-
 
 Modlist:
 ========
@@ -55,12 +56,9 @@ Please check the "Mod List.xlsx" file for a list of mods currently installed in 
 Changelog:
 ==========
 
-Note: All dates listed are in the format DD/MM/YYYY according to Australian Eastern Standard Time (AEST)
+For a list of all changes, please go here: https://github.com/RemTM/RemTModPack_V3/commits/master
 
-Changelog outdated, needs updating
+License:
+========
 
-18/06/2014 (V3.0.0):
-- Basic base files uploaded
-- Minecraft Version: 1.7.2
-- Installed Forge 10.12.2.1126
-- Added updated README file
+This modpack is for personal use only. Please do not rehost, redistribute, or disassemble this modpack as a whole or parts thereof unless permission has been expressly provided by the owners of the respected parts.
