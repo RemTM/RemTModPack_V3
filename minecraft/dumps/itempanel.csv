@@ -1,0 +1,495 @@
+Item Name,Item ID,Item meta,Has NBT,Display Name
+GraveStone:GSGraveStone,1627,0,true,Sword of a fallen warrior
+GraveStone:GSGraveStone,1627,0,true,Sword of a fallen warrior
+IC2:itemFluidCell,4100,0,true,Universal Fluid Cell
+TConstruct:pickaxe,4891,0,true,Thaumium Pickaxe
+TConstruct:shovel,4892,0,true,Thaumium Shovel
+TConstruct:hatchet,4893,0,true,Thaumium Hatchet
+TConstruct:broadsword,4894,0,true,Thaumium Broadsword
+TConstruct:longsword,4895,0,true,Thaumium Longsword
+TConstruct:rapier,4896,0,true,Thaumium Rapier
+TConstruct:dagger,4897,0,true,Thaumium Dagger
+TConstruct:cutlass,4898,0,true,Thaumium Cutlass
+TConstruct:frypan,4899,0,true,Thaumium Frying Pan
+TConstruct:battlesign,4900,0,true,Thaumium Battle Sign
+TConstruct:mattock,4901,0,true,Thaumium Mattock
+TConstruct:chisel,4902,0,true,Thaumium Chisel
+TConstruct:lumberaxe,4903,0,true,Thaumium Lumber Axe
+TConstruct:cleaver,4904,0,true,Thaumium Cleaver
+TConstruct:scythe,4905,0,true,Thaumium Scythe
+TConstruct:excavator,4906,0,true,Thaumium Excavator
+TConstruct:hammer,4907,0,true,Thaumium Hammer
+TConstruct:battleaxe,4908,0,true,Thaumium Battleaxe
+TConstruct:arrow,4910,0,true,Thaumium Arrow
+TConstruct:toolRod,4912,31,false,Thaumium Tool Rod
+TConstruct:toolShard,4913,31,false,Thaumium Shard
+TConstruct:pickaxeHead,4914,31,false,Thaumium Pickaxe Head
+TConstruct:shovelHead,4915,31,false,Thaumium Shovel Head
+TConstruct:hatchetHead,4916,31,false,Thaumium Axe Head
+TConstruct:binding,4917,31,false,Thaumium Binding
+TConstruct:toughBinding,4918,31,false,Thaumium Tough Binding
+TConstruct:toughRod,4919,31,false,Thaumium Tough Rod
+TConstruct:heavyPlate,4920,31,false,Thaumium Large Plate
+TConstruct:swordBlade,4921,31,false,Thaumium Sword Blade
+TConstruct:wideGuard,4922,31,false,Thaumium Wide Guard
+TConstruct:handGuard,4923,31,false,Thaumium Hand Guard
+TConstruct:crossbar,4924,31,false,Thaumium Crossbar
+TConstruct:knifeBlade,4925,31,false,Thaumium Knife Blade
+TConstruct:frypanHead,4927,31,false,Thaumium Pan
+TConstruct:signHead,4928,31,false,Thaumium Sign Head
+TConstruct:chiselHead,4929,31,false,Thaumium Chisel Head
+TConstruct:scytheBlade,4930,31,false,Thaumium Scythe Head
+TConstruct:broadAxeHead,4931,31,false,Thaumium Broad Axe Head
+TConstruct:excavatorHead,4932,31,false,Thaumium Excavator Head
+TConstruct:largeSwordBlade,4933,31,false,Thaumium Large Sword Blade
+TConstruct:hammerHead,4934,31,false,Thaumium Hammer Head
+TConstruct:arrowhead,4937,31,false,Thaumium Arrowhead
+Thaumcraft:blockFluxGoo,467,0,false,Flux Goo
+Thaumcraft:blockFluxGas,468,0,false,Flux Gas
+Thaumcraft:blockFluidPure,469,0,false,Purifiying Fluid
+Thaumcraft:blockFluidDeath,470,0,false,Liquid Death
+Thaumcraft:blockCustomOre,471,0,false,Cinnabar Ore
+Thaumcraft:blockCustomOre,471,1,false,Air Infused Stone
+Thaumcraft:blockCustomOre,471,2,false,Fire Infused Stone
+Thaumcraft:blockCustomOre,471,3,false,Water Infused Stone
+Thaumcraft:blockCustomOre,471,4,false,Earth Infused Stone
+Thaumcraft:blockCustomOre,471,5,false,Order Infused Stone
+Thaumcraft:blockCustomOre,471,6,false,Entropy Infused Stone
+Thaumcraft:blockCustomOre,471,7,false,Amber Bearing Stone
+Thaumcraft:blockMagicalLog,472,0,false,Greatwood Log
+Thaumcraft:blockMagicalLog,472,1,false,Silverwood Log
+Thaumcraft:blockMagicalLeaves,473,0,false,Greatwood Leaves
+Thaumcraft:blockMagicalLeaves,473,1,false,Silverwood Leaves
+Thaumcraft:blockCustomPlant,474,0,false,Greatwood Sapling
+Thaumcraft:blockCustomPlant,474,1,false,Silverwood Sapling
+Thaumcraft:blockCustomPlant,474,2,false,Shimmerleaf
+Thaumcraft:blockCustomPlant,474,3,false,Cinderpearl
+Thaumcraft:blockCustomPlant,474,4,false,Ethereal Bloom
+Thaumcraft:blockCustomPlant,474,5,false,Vishroom
+Thaumcraft:blockTaint,475,0,false,Crusted Taint
+Thaumcraft:blockTaint,475,1,false,Tainted Soil
+Thaumcraft:blockTaint,475,2,false,Block of Flesh
+Thaumcraft:blockTaintFibres,476,0,false,Fibrous Taint
+Thaumcraft:blockTaintFibres,476,1,false,Tainted Grass
+Thaumcraft:blockTaintFibres,476,2,false,Tainted Plant
+Thaumcraft:blockTaintFibres,476,3,false,Spore Stalk
+Thaumcraft:blockCosmeticOpaque,477,0,false,Amber Block
+Thaumcraft:blockCosmeticOpaque,477,1,false,Amber Bricks
+Thaumcraft:blockCosmeticOpaque,477,2,false,Warded Glass
+Thaumcraft:blockCosmeticSolid,478,0,false,Obsidian Totem
+Thaumcraft:blockCosmeticSolid,478,1,false,Obsidian Tile
+Thaumcraft:blockCosmeticSolid,478,2,false,Paving Stone of Travel
+Thaumcraft:blockCosmeticSolid,478,3,false,Paving Stone of Warding
+Thaumcraft:blockCosmeticSolid,478,4,false,Thaumium Block
+Thaumcraft:blockCosmeticSolid,478,5,false,Tallow Block
+Thaumcraft:blockCosmeticSolid,478,6,false,Arcane Stone Block
+Thaumcraft:blockCosmeticSolid,478,7,false,Arcane Stone Bricks
+Thaumcraft:blockCosmeticSolid,478,8,false,Charged Obsidian Totem
+Thaumcraft:blockCosmeticSolid,478,9,false,Golem Fetter
+Thaumcraft:blockCrystal,479,0,false,Air Crystal Cluster
+Thaumcraft:blockCrystal,479,1,false,Fire Crystal Cluster
+Thaumcraft:blockCrystal,479,2,false,Water Crystal Cluster
+Thaumcraft:blockCrystal,479,3,false,Earth Crystal Cluster
+Thaumcraft:blockCrystal,479,4,false,Order Crystal Cluster
+Thaumcraft:blockCrystal,479,5,false,Entropy Crystal Cluster
+Thaumcraft:blockCrystal,479,6,false,Mixed Crystal Cluster
+Thaumcraft:blockTube,480,0,false,Essentia Tube
+Thaumcraft:blockTube,480,1,false,Essentia Valve
+Thaumcraft:blockTube,480,2,false,Alchemical Centrifuge
+Thaumcraft:blockTube,480,3,false,Filtered Essentia Tube
+Thaumcraft:blockTube,480,4,false,Essentia Buffer
+Thaumcraft:blockTube,480,5,false,Restricted Essentia Tube
+Thaumcraft:blockTube,480,6,false,Directional Essentia Tube
+Thaumcraft:blockMetalDevice,481,0,false,Crucible
+Thaumcraft:blockMetalDevice,481,1,false,Arcane Alembic
+Thaumcraft:blockMetalDevice,481,5,false,Item Grate
+Thaumcraft:blockMetalDevice,481,7,false,Arcane Lamp
+Thaumcraft:blockMetalDevice,481,8,false,Lamp of Growth
+Thaumcraft:blockMetalDevice,481,13,false,Lamp of Fertility
+Thaumcraft:blockMetalDevice,481,9,false,Alchemical Construct
+Thaumcraft:blockMetalDevice,481,12,false,Mnemonic Matrix
+Thaumcraft:blockMetalDevice,481,14,false,Vis Relay
+Thaumcraft:blockMetalDevice,481,2,false,Vis Charge Relay
+Thaumcraft:blockWoodenDevice,482,0,false,Arcane Bellows
+Thaumcraft:blockWoodenDevice,482,1,false,Arcane Ear
+Thaumcraft:blockWoodenDevice,482,2,false,Arcane Pressure Plate
+Thaumcraft:blockWoodenDevice,482,4,false,Arcane Bore Base
+Thaumcraft:blockWoodenDevice,482,5,false,Arcane Bore
+Thaumcraft:blockWoodenDevice,482,6,false,Greatwood Planks
+Thaumcraft:blockWoodenDevice,482,7,false,Silverwood Planks
+Thaumcraft:blockStoneDevice,483,0,false,Alchemical Furnace
+Thaumcraft:blockStoneDevice,483,1,false,Arcane Pedestal
+Thaumcraft:blockStoneDevice,483,2,false,Runic Matrix
+Thaumcraft:blockStoneDevice,483,5,false,Wand Recharge Pedestal
+Thaumcraft:blockStoneDevice,483,8,false,Compound Recharge Focus
+Thaumcraft:blockStoneDevice,483,9,false,Node Stabilizer
+Thaumcraft:blockStoneDevice,483,10,false,Advanced Node Stabilizer
+Thaumcraft:blockStoneDevice,483,11,false,Node Transducer
+Thaumcraft:blockMirror,484,0,false,Magic Mirror
+Thaumcraft:blockMirror,484,6,false,Essentia Mirror
+Thaumcraft:blockTable,485,0,false,Table
+Thaumcraft:blockTable,485,14,false,Deconstruction Table
+Thaumcraft:blockTable,485,15,false,Arcane Worktable
+Thaumcraft:blockChestHungry,486,0,false,Hungry Chest
+Thaumcraft:blockArcaneDoor,487,0,false,Arcane Door
+Thaumcraft:blockLifter,488,0,false,Arcane Levitator
+Thaumcraft:blockMagicBox,489,0,false,tile.blockMagicBox.name
+Thaumcraft:blockJar,490,0,false,Warded Jar
+Thaumcraft:blockJar,490,1,false,Brain in a Jar
+Thaumcraft:blockJar,490,3,false,Void Jar
+Thaumcraft:blockCandle,491,0,false,White Tallow Candle
+Thaumcraft:blockCandle,491,1,false,Orange Tallow Candle
+Thaumcraft:blockCandle,491,2,false,Magenta Tallow Candle
+Thaumcraft:blockCandle,491,3,false,Light Blue Tallow Candle
+Thaumcraft:blockCandle,491,4,false,Yellow Tallow Candle
+Thaumcraft:blockCandle,491,5,false,Lime Tallow Candle
+Thaumcraft:blockCandle,491,6,false,Pink Tallow Candle
+Thaumcraft:blockCandle,491,7,false,Gray Tallow Candle
+Thaumcraft:blockCandle,491,8,false,Light Gray Tallow Candle
+Thaumcraft:blockCandle,491,9,false,Cyan Tallow Candle
+Thaumcraft:blockCandle,491,10,false,Purple Tallow Candle
+Thaumcraft:blockCandle,491,11,false,Blue Tallow Candle
+Thaumcraft:blockCandle,491,12,false,Brown Tallow Candle
+Thaumcraft:blockCandle,491,13,false,Green Tallow Candle
+Thaumcraft:blockCandle,491,14,false,Red Tallow Candle
+Thaumcraft:blockCandle,491,15,false,Black Tallow Candle
+Thaumcraft:blockAiry,492,0,false,Aura Node
+Thaumcraft:blockManaPod,493,0,false,tile.blockManaPod.name
+Thaumcraft:blockArcaneFurnace,494,0,false,Infernal Furnace
+Thaumcraft:blockWarded,495,0,false,tile.blockWarded.name
+Thaumcraft:blockHole,496,0,false,Empty Space
+Thaumcraft:WandCasting,4380,0,true,Iron Capped Wooden Wand
+Thaumcraft:WandCasting,4380,9,true,Gold Banded Greatwood Wand
+Thaumcraft:WandCasting,4380,54,true,Thaumium Bossed Silverwood Wand
+Thaumcraft:WandCasting,4380,128,true,Thaumium Bossed Silverwood Sceptre
+Thaumcraft:WandCap,4381,0,false,Iron Cap
+Thaumcraft:WandCap,4381,1,false,Gold Cap
+Thaumcraft:WandCap,4381,3,false,Copper Cap
+Thaumcraft:WandCap,4381,4,false,Charged Silver Cap
+Thaumcraft:WandCap,4381,5,false,Inert Silver Cap
+Thaumcraft:WandCap,4381,2,false,Charged Thaumium Cap
+Thaumcraft:WandCap,4381,6,false,Inert Thaumium Cap
+Thaumcraft:WandCap,4381,7,false,Charged Voidmetal Cap
+Thaumcraft:WandCap,4381,8,false,Inert Voidmetal Cap
+Thaumcraft:WandRod,4382,0,false,Greatwood Rod
+Thaumcraft:WandRod,4382,1,false,Obsidian Rod
+Thaumcraft:WandRod,4382,2,false,Silverwood Rod
+Thaumcraft:WandRod,4382,3,false,Icy Rod
+Thaumcraft:WandRod,4382,4,false,Quartz Rod
+Thaumcraft:WandRod,4382,5,false,Reed Rod
+Thaumcraft:WandRod,4382,6,false,Blazing Rod
+Thaumcraft:WandRod,4382,7,false,Bone Rod
+Thaumcraft:WandRod,4382,50,false,Greatwood Staff Core
+Thaumcraft:WandRod,4382,51,false,Obsidian Staff Core
+Thaumcraft:WandRod,4382,52,false,Silverwood Staff Core
+Thaumcraft:WandRod,4382,53,false,Icy Staff Core
+Thaumcraft:WandRod,4382,54,false,Quartz Staff Core
+Thaumcraft:WandRod,4382,55,false,Reed Staff Core
+Thaumcraft:WandRod,4382,56,false,Blazing Staff Core
+Thaumcraft:WandRod,4382,57,false,Bone Staff Core
+Thaumcraft:WandRod,4382,100,false,Staff Core of the Primal
+Thaumcraft:FocusPouch,4383,0,false,Focus Pouch
+Thaumcraft:FocusFire,4384,0,false,Wand Focus: Fire
+Thaumcraft:FocusShock,4385,0,false,Wand Focus: Shock
+Thaumcraft:FocusHellbat,4386,0,false,Wand Focus: Nine Hells
+Thaumcraft:FocusFrost,4387,0,false,Wand Focus: Frost
+Thaumcraft:FocusTrade,4388,0,false,Wand Focus: Equal Trade
+Thaumcraft:FocusExcavation,4389,0,false,Wand Focus: Excavation
+Thaumcraft:FocusPortableHole,4390,0,false,Wand Focus: Portable Hole
+Thaumcraft:FocusPech,4391,0,false,Wand Focus: Pech's Curse
+Thaumcraft:FocusWarding,4392,0,false,Wand Focus: Warding
+Thaumcraft:FocusPrimal,4393,0,false,Wand Focus: Primal
+Thaumcraft:ItemEssence,4394,0,false,Glass Phial
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemEssence,4394,1,true,Phial of Essentia
+Thaumcraft:ItemManaBean,4395,0,false,Mana Bean
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemWispEssence,4396,0,true,Ethereal Essence
+Thaumcraft:ItemResource,4397,0,false,Alumentum
+Thaumcraft:ItemResource,4397,1,false,Nitor
+Thaumcraft:ItemResource,4397,2,false,Thaumium Ingot
+Thaumcraft:ItemResource,4397,3,false,Quicksilver
+Thaumcraft:ItemResource,4397,4,false,Magic Tallow
+Thaumcraft:ItemResource,4397,6,false,Amber
+Thaumcraft:ItemResource,4397,7,false,Enchanted Fabric
+Thaumcraft:ItemResource,4397,8,false,Vis Filter
+Thaumcraft:ItemResource,4397,9,false,Knowledge Fragment
+Thaumcraft:ItemResource,4397,10,false,Mirrored Glass
+Thaumcraft:ItemResource,4397,11,false,Tainted Goo
+Thaumcraft:ItemResource,4397,12,false,Taint Tendril
+Thaumcraft:ItemResource,4397,13,false,Jar Label
+Thaumcraft:ItemResource,4397,14,false,Salis Mundus
+Thaumcraft:ItemResource,4397,15,false,Primal Charm
+Thaumcraft:ItemResource,4397,16,false,Voidmetal Ingot
+Thaumcraft:ItemResource,4397,17,false,Void Seed
+Thaumcraft:ItemShard,4398,0,false,Air Shard
+Thaumcraft:ItemShard,4398,1,false,Fire Shard
+Thaumcraft:ItemShard,4398,2,false,Water Shard
+Thaumcraft:ItemShard,4398,3,false,Earth Shard
+Thaumcraft:ItemShard,4398,4,false,Order Shard
+Thaumcraft:ItemShard,4398,5,false,Entropy Shard
+Thaumcraft:ItemShard,4398,6,false,Balanced Shard
+Thaumcraft:ItemResearchNotes,4399,0,false,Research Notes
+Thaumcraft:ItemInkwell,4400,0,false,Scribing Tools
+Thaumcraft:ItemThaumonomicon,4401,0,false,Thaumonomicon
+Thaumcraft:ItemThaumometer,4402,0,false,Thaumometer
+Thaumcraft:ItemGoggles,4403,0,false,Goggles of Revealing
+Thaumcraft:ItemHelmetThaumium,4404,0,false,Thaumium Helm
+Thaumcraft:ItemChestplateThaumium,4405,0,false,Thaumium Chestplate
+Thaumcraft:ItemLeggingsThaumium,4406,0,false,Thaumium Leggings
+Thaumcraft:ItemBootsThaumium,4407,0,false,Thaumium Boots
+Thaumcraft:ItemShovelThaumium,4408,0,false,Thaumium Shovel
+Thaumcraft:ItemPickThaumium,4409,0,false,Thaumium Pickaxe
+Thaumcraft:ItemAxeThaumium,4410,0,false,Thaumium Axe
+Thaumcraft:ItemSwordThaumium,4411,0,false,Thaumium Sword
+Thaumcraft:ItemHoeThaumium,4412,0,false,Thaumium Hoe
+Thaumcraft:ItemArcaneDoor,4413,0,false,Arcane Door
+Thaumcraft:ItemNugget,4414,0,false,Iron Nugget
+Thaumcraft:ItemNugget,4414,5,false,Quicksilver Drop
+Thaumcraft:ItemNugget,4414,21,false,Native Cinnabar Cluster
+Thaumcraft:ItemNugget,4414,6,false,Thaumium Nugget
+Thaumcraft:ItemNugget,4414,7,false,Voidmetal Nugget
+Thaumcraft:ItemNugget,4414,16,false,Native Iron Cluster
+Thaumcraft:ItemNugget,4414,31,false,Native Gold Cluster
+Thaumcraft:ItemNugget,4414,1,false,Copper Nugget
+Thaumcraft:ItemNugget,4414,17,false,Native Copper Cluster
+Thaumcraft:ItemNugget,4414,2,false,Tin Nugget
+Thaumcraft:ItemNugget,4414,18,false,Native Tin Cluster
+Thaumcraft:ItemNugget,4414,3,false,Silver Nugget
+Thaumcraft:ItemNugget,4414,19,false,Native Silver Cluster
+Thaumcraft:ItemNugget,4414,4,false,Lead Nugget
+Thaumcraft:ItemNugget,4414,20,false,Native Lead Cluster
+Thaumcraft:BootsTraveller,4415,0,false,Boots of the Traveller
+Thaumcraft:ItemNuggetChicken,4416,0,false,Chicken Nugget
+Thaumcraft:ItemNuggetBeef,4417,0,false,Beef Nugget
+Thaumcraft:ItemNuggetPork,4418,0,false,Pork Nugget
+Thaumcraft:ItemNuggetFish,4419,0,false,Fish Nugget
+Thaumcraft:TripleMeatTreat,4420,0,false,Triple Meat Treat
+Thaumcraft:ItemSwordElemental,4421,0,false,Sword of the Zephyr
+Thaumcraft:ItemShovelElemental,4422,0,false,Shovel of the Earthmover
+Thaumcraft:ItemPickaxeElemental,4423,0,false,Pickaxe of the Core
+Thaumcraft:ItemAxeElemental,4424,0,false,Axe of the Stream
+Thaumcraft:ItemHoeElemental,4425,0,false,Hoe of Growth
+Thaumcraft:ItemChestplateRobe,4426,0,false,Thaumaturge's Robe
+Thaumcraft:ItemLeggingsRobe,4427,0,false,Thaumaturge's Leggings
+Thaumcraft:ItemBootsRobe,4428,0,false,Thaumaturge's Boots
+Thaumcraft:ArcaneDoorKey,4429,0,false,Iron Arcane Key
+Thaumcraft:ArcaneDoorKey,4429,1,false,Gold Arcane Key
+Thaumcraft:HandMirror,4430,0,false,Magic Hand Mirror
+Thaumcraft:HoverHarness,4431,0,false,Thaumostatic Harness
+Thaumcraft:BlockJarFilledItem,4432,0,false,Jar of Essentia
+Thaumcraft:BlockJarNodeItem,4433,0,false,Node in a Jar
+Thaumcraft:TrunkSpawner,4434,0,false,Traveling Trunk
+Thaumcraft:ItemGolemPlacer,4435,0,false,Straw Golem
+Thaumcraft:ItemGolemPlacer,4435,1,false,Wood Golem
+Thaumcraft:ItemGolemPlacer,4435,2,false,Tallow Golem
+Thaumcraft:ItemGolemPlacer,4435,3,false,Clay Golem
+Thaumcraft:ItemGolemPlacer,4435,4,false,Flesh Golem
+Thaumcraft:ItemGolemPlacer,4435,5,false,Stone Golem
+Thaumcraft:ItemGolemPlacer,4435,6,false,Iron Golem
+Thaumcraft:ItemGolemPlacer,4435,7,false,Thaumium Golem
+Thaumcraft:ItemGolemCore,4436,100,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,0,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,1,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,2,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,3,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,4,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,5,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,6,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,7,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,8,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,9,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,10,false,Golem Animation Core
+Thaumcraft:ItemGolemCore,4436,11,false,Golem Animation Core
+Thaumcraft:ItemGolemUpgrade,4437,0,false,Golem Upgrade: Air
+Thaumcraft:ItemGolemUpgrade,4437,1,false,Golem Upgrade: Earth
+Thaumcraft:ItemGolemUpgrade,4437,2,false,Golem Upgrade: Fire
+Thaumcraft:ItemGolemUpgrade,4437,3,false,Golem Upgrade: Water
+Thaumcraft:ItemGolemUpgrade,4437,4,false,Golem Upgrade: Order
+Thaumcraft:ItemGolemUpgrade,4437,5,false,Golem Upgrade: Entropy
+Thaumcraft:GolemBell,4438,0,false,Golemancer's Bell
+Thaumcraft:ItemGolemDecoration,4439,0,false,Accessory: Top Hat
+Thaumcraft:ItemGolemDecoration,4439,1,false,Accessory: Spectacles
+Thaumcraft:ItemGolemDecoration,4439,2,false,Accessory: Bowtie
+Thaumcraft:ItemGolemDecoration,4439,3,false,Accessory: Fez
+Thaumcraft:ItemGolemDecoration,4439,4,false,Accessory: Dart Launcher
+Thaumcraft:ItemGolemDecoration,4439,5,false,Accessory: Visor
+Thaumcraft:ItemGolemDecoration,4439,6,false,Accessory: Iron Plating
+Thaumcraft:ItemGolemDecoration,4439,7,false,Accessory: Mace Arm
+Thaumcraft:ItemBowBone,4440,0,false,Bow of Bone
+Thaumcraft:PrimalArrow,4441,0,false,Air Arrow
+Thaumcraft:PrimalArrow,4441,1,false,Fire Arrow
+Thaumcraft:PrimalArrow,4441,2,false,Water Arrow
+Thaumcraft:PrimalArrow,4441,3,false,Earth Arrow
+Thaumcraft:PrimalArrow,4441,4,false,Order Arrow
+Thaumcraft:PrimalArrow,4441,5,false,Entropy Arrow
+Thaumcraft:ItemResonator,4442,0,false,Essentia Resonator
+Thaumcraft:ItemBaubleBlanks,4443,0,false,Mundane Amulet
+Thaumcraft:ItemBaubleBlanks,4443,1,false,Mundane Ring
+Thaumcraft:ItemBaubleBlanks,4443,2,false,Mundane Belt
+Thaumcraft:ItemAmuletRunic,4444,0,false,Amulet of Runic Shielding
+Thaumcraft:ItemAmuletRunic,4444,1,false,Amulet of Emergency Shielding
+Thaumcraft:ItemRingRunic,4445,0,false,Ring of Protection
+Thaumcraft:ItemRingRunic,4445,1,false,Ring of Runic Shielding
+Thaumcraft:ItemRingRunic,4445,2,false,Charged Ring of Shielding
+Thaumcraft:ItemRingRunic,4445,3,false,Revitalizing Ring of Shielding
+Thaumcraft:ItemGirdleRunic,4446,0,false,Girdle of Runic Shielding
+Thaumcraft:ItemGirdleRunic,4446,1,false,Kinetic Girdle of Shielding
+Thaumcraft:ItemAmuletVis,4447,0,false,Vis Stone
+Thaumcraft:ItemAmuletVis,4447,1,false,Amulet of Vis Storage
+Thaumcraft:ItemGirdleHover,4448,0,false,Thaumostatic Girdle
+Thaumcraft:ItemSpawnerEgg,4449,0,false,Spawn Angry Zombie
+Thaumcraft:ItemSpawnerEgg,4449,1,false,Spawn Furious Zombie
+Thaumcraft:ItemSpawnerEgg,4449,2,false,Spawn Wisp
+Thaumcraft:ItemSpawnerEgg,4449,3,false,Spawn Firebat
+Thaumcraft:ItemSpawnerEgg,4449,4,false,Spawn Pech Forager
+Thaumcraft:ItemSpawnerEgg,4449,5,false,Spawn Mind Spider
+Thaumcraft:ItemSpawnerEgg,4449,6,false,Spawn Eldritch Guardian
+Thaumcraft:ItemSpawnerEgg,4449,7,false,Spawn Thaumic Slime
+Thaumcraft:ItemSpawnerEgg,4449,8,false,Spawn Tainted Crawler
+Thaumcraft:ItemSpawnerEgg,4449,9,false,Spawn Taintacle
+Thaumcraft:ItemSpawnerEgg,4449,10,false,Spawn Taint Tendril
+Thaumcraft:ItemSpawnerEgg,4449,11,false,Spawn Taint Spore
+Thaumcraft:ItemSpawnerEgg,4449,12,false,Spawn Taint Spore Swarmer
+Thaumcraft:ItemSpawnerEgg,4449,13,false,Spawn Taint Swarm
+Thaumcraft:ItemSpawnerEgg,4449,14,false,Spawn Tainted Chicken
+Thaumcraft:ItemSpawnerEgg,4449,15,false,Spawn Tainted Cow
+Thaumcraft:ItemSpawnerEgg,4449,16,false,Spawn Tainted Creeper
+Thaumcraft:ItemSpawnerEgg,4449,17,false,Spawn Tainted Pig
+Thaumcraft:ItemSpawnerEgg,4449,18,false,Spawn Tainted Sheep
+Thaumcraft:ItemSpawnerEgg,4449,19,false,Spawn Tainted Villager
+Thaumcraft:ItemZombieBrain,4450,0,false,Zombie Brain
+Thaumcraft:ItemBathSalts,4451,0,false,Purifying Bath Salts
+Thaumcraft:ItemCrystalEssence,4452,0,false,Crystalized Essence
+Thaumcraft:ItemBucketDeath,4453,0,false,Bucket of Liquid Death
+Thaumcraft:ItemHelmetFortress,4454,0,false,Thaumium Fortress Helm
+Thaumcraft:ItemChestplateFortress,4455,0,false,Thaumium Fortress Cuirass
+Thaumcraft:ItemLeggingsFortress,4456,0,false,Thaumium Fortress Thigh Guards
+Thaumcraft:ItemEldritchObject,4457,0,false,Eldritch Eye
+Thaumcraft:ItemHelmetVoid,4458,0,false,Void Helm
+Thaumcraft:ItemChestplateVoid,4459,0,false,Void Chestplate
+Thaumcraft:ItemLeggingsVoid,4460,0,false,Void Leggings
+Thaumcraft:ItemBootsVoid,4461,0,false,Void Boots
+Thaumcraft:ItemShovelVoid,4462,0,false,Void Shovel
+Thaumcraft:ItemPickVoid,4463,0,false,Void Pickaxe
+Thaumcraft:ItemAxeVoid,4464,0,false,Void Axe
+Thaumcraft:ItemSwordVoid,4465,0,false,Void Sword
+Thaumcraft:ItemHoeVoid,4466,0,false,Void Hoe
+Thaumcraft:ItemHelmetVoidFortress,4467,0,false,Void Thaumaturge Hood
+Thaumcraft:ItemChestplateVoidFortress,4468,0,false,Void Thaumaturge Robe
+Thaumcraft:ItemLeggingsVoidFortress,4469,0,false,Void Thaumaturge Leggings
+extracells:pattern.fluid,5485,0,true,ME Fluid Pattern: Molten Thaumium
+gregtech:gt.blockmachines,1365,4426,false,Thaumium Frame Box
+gregtech:gt.metaitem.01,5645,2330,false,Thaumium Dust
+gregtech:gt.metaitem.01,5645,11330,false,Thaumium Ingot
+gregtech:gt.metaitem.01,5645,17330,false,Thaumium Plate
+gregtech:gt.metaitem.01,5645,23330,false,Thaumium Rod
+gregtech:gt.metaitem.01,5645,25330,false,Thaumium Round
+gregtech:gt.metaitem.01,5645,26330,false,Thaumium Bolt
+gregtech:gt.metaitem.01,5645,27330,false,Thaumium Screw
+gregtech:gt.metaitem.01,5645,28330,false,Thaumium Ring
+gregtech:gt.metaitem.01,5645,29330,false,Thaumium Foil
+gregtech:gt.metaitem.02,5646,31330,false,Thaumium Gear
+Railcraft:tool.crowbar.magic,5623,0,false,Thaumium Crowbar
