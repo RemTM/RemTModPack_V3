@@ -1,0 +1,53 @@
+ID,Unlocalised name,Class
+1,potion.moveSpeed,net.minecraft.potion.Potion
+2,potion.moveSlowdown,net.minecraft.potion.Potion
+3,potion.digSpeed,net.minecraft.potion.Potion
+4,potion.digSlowDown,net.minecraft.potion.Potion
+5,potion.damageBoost,net.minecraft.potion.PotionAttackDamage
+6,potion.heal,net.minecraft.potion.PotionHealth
+7,potion.harm,net.minecraft.potion.PotionHealth
+8,potion.jump,net.minecraft.potion.Potion
+9,potion.confusion,net.minecraft.potion.Potion
+10,potion.regeneration,net.minecraft.potion.Potion
+11,potion.resistance,net.minecraft.potion.Potion
+12,potion.fireResistance,net.minecraft.potion.Potion
+13,potion.waterBreathing,net.minecraft.potion.Potion
+14,potion.invisibility,net.minecraft.potion.Potion
+15,potion.blindness,net.minecraft.potion.Potion
+16,potion.nightVision,net.minecraft.potion.Potion
+17,potion.hunger,net.minecraft.potion.Potion
+18,potion.weakness,net.minecraft.potion.PotionAttackDamage
+19,potion.poison,net.minecraft.potion.Potion
+20,potion.wither,net.minecraft.potion.Potion
+21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
+22,potion.absorption,net.minecraft.potion.PotionAbsoption
+23,potion.saturation,net.minecraft.potion.PotionHealth
+24,ic2.potion.radiation,ic2.core.IC2Potion
+25,potion.fluxtaint,thaumcraft.api.potions.PotionFluxTaint
+26,potion.visexhaust,thaumcraft.api.potions.PotionVisExhaust
+27,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
+28,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
+29,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
+30,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+31,Radiation Sickness,Reika.ReactorCraft.Auxiliary.PotionRadiation
+32,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
+33,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
+35,Frozen Solid,Reika.RotaryCraft.Auxiliary.FreezePotion
+36,Growth Hormone,Reika.RotaryCraft.Auxiliary.PotionGrowthHormone
+37,imbue.poison,lumien.randomthings.Potions.PotionImbue
+38,imbue.experience,lumien.randomthings.Potions.PotionImbue
+39,imbue.fire,lumien.randomthings.Potions.PotionImbue
+40,imbue.wither,lumien.randomthings.Potions.PotionImbue
+41,imbue.weakness,lumien.randomthings.Potions.PotionImbue
+42,imbue.spectre,lumien.randomthings.Potions.PotionImbue
+100,Drowning,WayofTime.alchemicalWizardry.common.potion.PotionDrowning
+101,Boost,WayofTime.alchemicalWizardry.common.potion.PotionBoost
+102,Whirlwind,WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect
+103,Inhibit,WayofTime.alchemicalWizardry.common.potion.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.common.potion.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.common.potion.PotionReciprocation
+106,Flame Cloak,WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak
+107,Ice Cloak,WayofTime.alchemicalWizardry.common.potion.PotionIceCloak
+108,Heavy Heart,WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart
+109,Fire Fuse,WayofTime.alchemicalWizardry.common.potion.PotionFireFuse
+110,Planar Binding,WayofTime.alchemicalWizardry.common.potion.PotionPlanarBinding
