@@ -228,3 +228,7 @@ minecraft/saves/
 minecraft/screenshots/
 minecraft/options.txt
 natives/
+*.uid
+*.json
+minecraft/mods/ruins_log.txt
+minecraft/usernamecache.json
