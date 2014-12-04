@@ -1,11 +1,11 @@
 
-Loading excluded list from: D:\Data\remlie's minecraft\RemTModPack_V2-master\instances\RemTModPack_V3\minecraft\saves\world\DIM2
+Loading excluded list from: D:\Personal Files\Games\MultiMC\RemTModPack_V2\instances\RemTModPack_V3\minecraft\saves\Test World\DIM2
 No exclusions found for this world.
 
-Loading options from: D:\Data\remlie's minecraft\RemTModPack_V2-master\instances\RemTModPack_V3\minecraft\saves\world\DIM2
+Loading options from: D:\Personal Files\Games\MultiMC\RemTModPack_V2\instances\RemTModPack_V3\minecraft\saves\Test World\DIM2
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0
 anyRuinsMinDistance = 64.0
-Ruins mod loaded successfully for world D:\Data\remlie's minecraft\RemTModPack_V2-master\instances\RemTModPack_V3\minecraft\saves\world\DIM2, template files: 32
-ld, template files: 32
+Ruins mod loaded successfully for world D:\Personal Files\Games\MultiMC\RemTModPack_V2\instances\RemTModPack_V3\minecraft\saves\Test World\DIM2, template files: 32
+2
