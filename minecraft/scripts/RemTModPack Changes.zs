@@ -35,6 +35,7 @@ val emerald = <ore:gemEmerald>;
 val imbuedStar = <JotatosPracticalities:netherStarCore>;
 val machineCore = <JotatosPracticalities:machineCore>;
 val quantumCore = <AdvancedSolarPanel:asp_crafting_items:13>;
+val spawnerController = <YogpstopLib:yogSC>;
 
 val platinum = <ore:ingotPlatinum>;
 val platinumSeeds = <magicalcrops:magicalcrops_ModMagicSeedsPlatinum>;
@@ -73,6 +74,9 @@ recipes.removeShaped(platinumSeeds);
 
 # Removal of Imbued Nether Star default recipe
 recipes.removeShaped(imbuedStar);
+
+# Removal of Spawner Controller recipe from QuarryPlus due to OPness
+recipes.remove(spawnerController);
 
 # Removal of broken Mekanism recipe(s)
 # original recipe used to make planks
