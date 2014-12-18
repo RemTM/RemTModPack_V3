@@ -32,6 +32,10 @@ val netherStar = <minecraft:nether_star>;
 val stone = <ore:stone>;
 val emerald = <ore:gemEmerald>;
 
+val imbuedStar = <JotatosPracticalities:netherStarCore>;
+val machineCore = <JotatosPracticalities:machineCore>;
+val quantumCore = <AdvancedSolarPanel:asp_crafting_items:13>;
+
 val platinum = <ore:ingotPlatinum>;
 val platinumSeeds = <magicalcrops:magicalcrops_ModMagicSeedsPlatinum>;
 val nickelSeeds = <magicalcrops:magicalcrops_ModMagicSeedsNickel>;
@@ -41,14 +45,6 @@ val essenceWeak = <magicalcrops:magicalcrops_MagicEssence:1>;
 val essenceRegular = <magicalcrops:magicalcrops_MagicEssence:2>;
 val essenceStrong = <magicalcrops:magicalcrops_MagicEssence:3>;
 val essenceExtreme = <magicalcrops:magicalcrops_MagicEssence:4>;
-
-var crystals = [<ChromatiCraft:chromaticraft_block_crystal:0>, <ChromatiCraft:chromaticraft_block_crystal:1>, <ChromatiCraft:chromaticraft_block_crystal:2>, <ChromatiCraft:chromaticraft_block_crystal:3>, <ChromatiCraft:chromaticraft_block_crystal:4>, <ChromatiCraft:chromaticraft_block_crystal:5>, <ChromatiCraft:chromaticraft_block_crystal:6>, <ChromatiCraft:chromaticraft_block_crystal:7>, <ChromatiCraft:chromaticraft_block_crystal:8>, <ChromatiCraft:chromaticraft_block_crystal:9>, <ChromatiCraft:chromaticraft_block_crystal:10>, <ChromatiCraft:chromaticraft_block_crystal:11>, <ChromatiCraft:chromaticraft_block_crystal:12>, <ChromatiCraft:chromaticraft_block_crystal:13>, <ChromatiCraft:chromaticraft_block_crystal:14>, <ChromatiCraft:chromaticraft_block_crystal:15>] as IItemStack[];
-var crystalsPotion = [<ChromatiCraft:chromaticraft_block_super:0>, <ChromatiCraft:chromaticraft_block_super:1>, <ChromatiCraft:chromaticraft_block_super:2>, <ChromatiCraft:chromaticraft_block_super:3>, <ChromatiCraft:chromaticraft_block_super:4>, <ChromatiCraft:chromaticraft_block_super:5>, <ChromatiCraft:chromaticraft_block_super:6>, <ChromatiCraft:chromaticraft_block_super:7>, <ChromatiCraft:chromaticraft_block_super:8>, <ChromatiCraft:chromaticraft_block_super:9>, <ChromatiCraft:chromaticraft_block_super:10>, <ChromatiCraft:chromaticraft_block_super:11>, <ChromatiCraft:chromaticraft_block_super:12>, <ChromatiCraft:chromaticraft_block_super:13>, <ChromatiCraft:chromaticraft_block_super:14>, <ChromatiCraft:chromaticraft_block_super:15>] as IItemStack[];
-var crystalsPendant = [<ChromatiCraft:chromaticraft_item_pendant:0>, <ChromatiCraft:chromaticraft_item_pendant:1>, <ChromatiCraft:chromaticraft_item_pendant:2>, <ChromatiCraft:chromaticraft_item_pendant:3>, <ChromatiCraft:chromaticraft_item_pendant:4>, <ChromatiCraft:chromaticraft_item_pendant:5>, <ChromatiCraft:chromaticraft_item_pendant:6>, <ChromatiCraft:chromaticraft_item_pendant:7>, <ChromatiCraft:chromaticraft_item_pendant:8>, <ChromatiCraft:chromaticraft_item_pendant:9>, <ChromatiCraft:chromaticraft_item_pendant:10>, <ChromatiCraft:chromaticraft_item_pendant:11>, <ChromatiCraft:chromaticraft_item_pendant:12>, <ChromatiCraft:chromaticraft_item_pendant:13>, <ChromatiCraft:chromaticraft_item_pendant:14>, <ChromatiCraft:chromaticraft_item_pendant:15>] as IItemStack[];
-var crystalsPendantEnhanced = [<ChromatiCraft:chromaticraft_item_pendant3:0>, <ChromatiCraft:chromaticraft_item_pendant3:1>, <ChromatiCraft:chromaticraft_item_pendant3:2>, <ChromatiCraft:chromaticraft_item_pendant3:3>, <ChromatiCraft:chromaticraft_item_pendant3:4>, <ChromatiCraft:chromaticraft_item_pendant3:5>, <ChromatiCraft:chromaticraft_item_pendant3:6>, <ChromatiCraft:chromaticraft_item_pendant3:7>, <ChromatiCraft:chromaticraft_item_pendant3:8>, <ChromatiCraft:chromaticraft_item_pendant3:9>, <ChromatiCraft:chromaticraft_item_pendant3:10>, <ChromatiCraft:chromaticraft_item_pendant3:11>, <ChromatiCraft:chromaticraft_item_pendant3:12>, <ChromatiCraft:chromaticraft_item_pendant3:13>, <ChromatiCraft:chromaticraft_item_pendant3:14>, <ChromatiCraft:chromaticraft_item_pendant3:15>] as IItemStack[];
-var crystalsShard = [<ChromatiCraft:chromaticraft_item_shard:0>, <ChromatiCraft:chromaticraft_item_shard:1>, <ChromatiCraft:chromaticraft_item_shard:2>, <ChromatiCraft:chromaticraft_item_shard:3>, <ChromatiCraft:chromaticraft_item_shard:4>, <ChromatiCraft:chromaticraft_item_shard:5>, <ChromatiCraft:chromaticraft_item_shard:6>, <ChromatiCraft:chromaticraft_item_shard:7>, <ChromatiCraft:chromaticraft_item_shard:8>, <ChromatiCraft:chromaticraft_item_shard:9>, <ChromatiCraft:chromaticraft_item_shard:10>, <ChromatiCraft:chromaticraft_item_shard:11>, <ChromatiCraft:chromaticraft_item_shard:12>, <ChromatiCraft:chromaticraft_item_shard:13>, <ChromatiCraft:chromaticraft_item_shard:14>, <ChromatiCraft:chromaticraft_item_shard:15>] as IItemStack[];
-var crystalsShardGlow = [<ChromatiCraft:chromaticraft_item_shard:16>, <ChromatiCraft:chromaticraft_item_shard:17>, <ChromatiCraft:chromaticraft_item_shard:18>, <ChromatiCraft:chromaticraft_item_shard:19>, <ChromatiCraft:chromaticraft_item_shard:20>, <ChromatiCraft:chromaticraft_item_shard:21>, <ChromatiCraft:chromaticraft_item_shard:22>, <ChromatiCraft:chromaticraft_item_shard:23>, <ChromatiCraft:chromaticraft_item_shard:24>, <ChromatiCraft:chromaticraft_item_shard:25>, <ChromatiCraft:chromaticraft_item_shard:26>, <ChromatiCraft:chromaticraft_item_shard:27>, <ChromatiCraft:chromaticraft_item_shard:28>, <ChromatiCraft:chromaticraft_item_shard:29>, <ChromatiCraft:chromaticraft_item_shard:30>, <ChromatiCraft:chromaticraft_item_shard:31>] as IItemStack[];
-var crystalsRune = [<ChromatiCraft:chromaticraft_block_rune:0>, <ChromatiCraft:chromaticraft_block_rune:1>, <ChromatiCraft:chromaticraft_block_rune:2>, <ChromatiCraft:chromaticraft_block_rune:3>, <ChromatiCraft:chromaticraft_block_rune:4>, <ChromatiCraft:chromaticraft_block_rune:5>, <ChromatiCraft:chromaticraft_block_rune:6>, <ChromatiCraft:chromaticraft_block_rune:7>, <ChromatiCraft:chromaticraft_block_rune:8>, <ChromatiCraft:chromaticraft_block_rune:9>, <ChromatiCraft:chromaticraft_block_rune:10>, <ChromatiCraft:chromaticraft_block_rune:11>, <ChromatiCraft:chromaticraft_block_rune:12>, <ChromatiCraft:chromaticraft_block_rune:13>, <ChromatiCraft:chromaticraft_block_rune:14>, <ChromatiCraft:chromaticraft_block_rune:15>] as IItemStack[];
 
 print("RemTModPack: Nickname registration complete");
 
@@ -75,6 +71,9 @@ stick.add(<minecraft:stick>);
 # using crop instead of seed in recipe
 recipes.removeShaped(platinumSeeds);
 
+# Removal of Imbued Nether Star default recipe
+recipes.removeShaped(imbuedStar);
+
 # Removal of broken Mekanism recipe(s)
 # original recipe used to make planks
 #recipes.removeShaped(<Mekanism:CardboardBox>);
@@ -92,68 +91,8 @@ recipes.removeShaped(platinumSeeds);
 # Magical Crops fix
 recipes.addShapedMirrored(platinumSeeds, [[platinum, essenceExtreme, nickelSeeds], [essenceExtreme, seeds, essenceExtreme], [nickelSeeds, essenceExtreme, platinum]]);
 
-# Temp ChromatiCraft recipes
-
-# Add crystal potion, pendant, crystalised stone and runes recipes
-for i, crystal in crystals {
-	recipes.addShapedMirrored(crystalsPotion[i], [[redstoneBlock, crystal, glowstoneBlock], [obsidian, goldBlock, obsidian]]);
-	recipes.addShapedMirrored(crystalsPendant[i], [[glowstoneBlock, stringSpider, glowstoneBlock], [quartzNether, crystal, quartzNether], [enderPearl, diamond, enderPearl]]);
-	recipes.addShapedMirrored(crystalsPendantEnhanced[i], [[diamond, crystalsPendant[i], diamond], [goldIngot, crystalsPotion[i], goldIngot], [enderEye, ghastTear, enderEye]]);
-	recipes.addShaped(<ChromatiCraft:chromaticraft_block_pylonstruct:0>, [[null, stone, null], [stone, crystalsShard[i], stone], [null, stone, null]]);
-	recipes.addShaped(crystalsRune[i], [[<ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>], [<ChromatiCraft:chromaticraft_block_pylonstruct:0>, crystalsShard[i], <ChromatiCraft:chromaticraft_block_pylonstruct:0>], [<ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>]]);
-}
-
-# Add glowing crystal shards recipes
-for i, crystalShard in crystalsShard {
-	recipes.addShaped(crystalsShardGlow[i], [[crystalShard, crystalShard, crystalShard], [crystalShard, glowstoneBlock, crystalShard], [crystalShard, crystalShard, crystalShard]]);
-}
-
-# Add Red Crystal Group recipe
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_cluster:0>, [[null, <ChromatiCraft:chromaticraft_item_shard:1>, null], [<ChromatiCraft:chromaticraft_item_shard:4>, null, <ChromatiCraft:chromaticraft_item_shard:5>], [null, <ChromatiCraft:chromaticraft_item_shard:13>, null]]);
-# Add Green Crystal Group recipe
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_cluster:1>, [[null, <ChromatiCraft:chromaticraft_item_shard:11>, null], [<ChromatiCraft:chromaticraft_item_shard:6>, null, <ChromatiCraft:chromaticraft_item_shard:10>], [null, <ChromatiCraft:chromaticraft_item_shard:2>, null]]);
-# Add Orange Crystal Group recipe
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_cluster:2>, [[null, <ChromatiCraft:chromaticraft_item_shard:3>, null], [<ChromatiCraft:chromaticraft_item_shard:9>, null, <ChromatiCraft:chromaticraft_item_shard:14>], [null, <ChromatiCraft:chromaticraft_item_shard:12>, null]]);
-# Add White Crystal Group recipe
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_cluster:3>, [[null, <ChromatiCraft:chromaticraft_item_shard:0>, null], [<ChromatiCraft:chromaticraft_item_shard:8>, null, <ChromatiCraft:chromaticraft_item_shard:7>], [null, <ChromatiCraft:chromaticraft_item_shard:15>, null]]);
-# Add Primary Crystal Cluster recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_item_cluster:8>, [[null, <ChromatiCraft:chromaticraft_item_cluster:0>, null], [<ChromatiCraft:chromaticraft_item_cluster:1>, <ChromatiCraft:chromaticraft_item_shard:15>, <ChromatiCraft:chromaticraft_item_cluster:1>], [null, <ChromatiCraft:chromaticraft_item_cluster:0>, null]]);
-# Add Secondary Crystal Cluster recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_item_cluster:9>, [[null, <ChromatiCraft:chromaticraft_item_cluster:2>, null], [<ChromatiCraft:chromaticraft_item_cluster:3>, <ChromatiCraft:chromaticraft_item_shard:15>, <ChromatiCraft:chromaticraft_item_cluster:3>], [null, <ChromatiCraft:chromaticraft_item_cluster:2>, null]]);
-# Add Crystal Core recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_item_cluster:10>, [[null, <ChromatiCraft:chromaticraft_item_cluster:9>, null], [<ChromatiCraft:chromaticraft_item_cluster:8>, diamond, <ChromatiCraft:chromaticraft_item_cluster:8>], [null, <ChromatiCraft:chromaticraft_item_cluster:9>, null]]);
-# Add Crystal Star recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_item_cluster:11>, [[null, <ChromatiCraft:chromaticraft_item_cluster:10>, null], [<ChromatiCraft:chromaticraft_item_cluster:10>, netherStar, <ChromatiCraft:chromaticraft_item_cluster:10>], [null, <ChromatiCraft:chromaticraft_item_cluster:10>, null]]);
-# Add Guardian Stone recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_item_placer:8>, [[crystalsShardGlow[15], crystalsShardGlow[15], crystalsShardGlow[15]], [crystalsShardGlow[15], <ChromatiCraft:chromaticraft_item_cluster:11>, crystalsShardGlow[15]], [crystalsShardGlow[15], crystalsShardGlow[15], crystalsShardGlow[15]]]);
-# Add Crystalline Stone Beam recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_block_pylonstruct:1> * 2, [[<ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null], [null, null, null], [null, null, null]]);
-# Add Crystalline Stone Column recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_block_pylonstruct:2> * 2, [[null, null, null], [null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null], [null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null]]);
-# Add Crystalline Stone Corner recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_block_pylonstruct:6> * 5, [[<ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>], [<ChromatiCraft:chromaticraft_block_pylonstruct:0>, null, null], [<ChromatiCraft:chromaticraft_block_pylonstruct:0>, null, null]]);
-# Add Engraved Crystalline Stone recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_block_pylonstruct:7> * 4, [[null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null], [<ChromatiCraft:chromaticraft_block_pylonstruct:0>, null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>], [null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null]]);
-# Add Embossed Crystalline Stone recipe
-recipes.addShaped(<ChromatiCraft:chromaticraft_block_pylonstruct:8> * 5, [[null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null], [<ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, <ChromatiCraft:chromaticraft_block_pylonstruct:0>], [null, <ChromatiCraft:chromaticraft_block_pylonstruct:0>, null]]);
-
-# Add Tile Accelerators, will need to look into NBT tags before being able to do so
-# x2
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 0}), [[diamond, crystalsShardGlow[4], diamond], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_cluster:11>, crystalsShardGlow[4]], [diamond, crystalsShardGlow[4], diamond]]);
-# x4
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 1}), [[ironIngot, crystalsShardGlow[4], ironIngot], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 0}), crystalsShardGlow[4]], [ironIngot, crystalsShardGlow[4], ironIngot]]);
-# x8
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 2}), [[ironIngot, crystalsShardGlow[4], ironIngot], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 1}), crystalsShardGlow[4]], [ironIngot, crystalsShardGlow[4], ironIngot]]);
-# x16
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 3}), [[goldIngot, crystalsShardGlow[4], goldIngot], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 2}), crystalsShardGlow[4]], [goldIngot, crystalsShardGlow[4], goldIngot]]);
-# x32
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 4}), [[goldIngot, crystalsShardGlow[4], goldIngot], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 3}), crystalsShardGlow[4]], [goldIngot, crystalsShardGlow[4], goldIngot]]);
-# x64
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 5}), [[diamond, crystalsShardGlow[4], diamond], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 4}), crystalsShardGlow[4]], [diamond, crystalsShardGlow[4], diamond]]);
-# x128
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 6}), [[emerald, crystalsShardGlow[4], emerald], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 5}), crystalsShardGlow[4]], [emerald, crystalsShardGlow[4], emerald]]);
-# x256
-recipes.addShapedMirrored(<ChromatiCraft:chromaticraft_item_placer:9>.withTag({tier: 7}), [[netherStar, crystalsShardGlow[4], netherStar], [crystalsShardGlow[4], <ChromatiCraft:chromaticraft_item_placer:9>.onlyWithTag({tier: 6}), crystalsShardGlow[4]], [netherStar, crystalsShardGlow[4], netherStar]]);
+# Add new 'balanced' Imbued Nether Star recipe
+recipes.addShapedMirrored(imbuedStar, [[netherStar, netherStar, netherStar], [<ChromatiCraft:chromaticraft_item_cluster:11>, machineCore, quantumCore], [netherStar, netherStar, netherStar]]);
 
 #recipes.addShaped(<Mekanism:CardboardBox>, [[, null, ], [null, , null], [, null, ]]);
 
