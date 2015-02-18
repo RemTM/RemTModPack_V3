@@ -96,7 +96,8 @@ recipes.remove(spawnerController);
 recipes.addShapedMirrored(platinumSeeds, [[platinum, essenceExtreme, nickelSeeds], [essenceExtreme, seeds, essenceExtreme], [nickelSeeds, essenceExtreme, platinum]]);
 
 # Add new 'balanced' Imbued Nether Star recipe
-recipes.addShapedMirrored(imbuedStar, [[netherStar, netherStar, netherStar], [<ChromatiCraft:chromaticraft_item_cluster:11>, machineCore, quantumCore], [netherStar, netherStar, netherStar]]);
+//recipes.addShapedMirrored(imbuedStar, [[netherStar, netherStar, netherStar], [<ChromatiCraft:chromaticraft_item_cluster:11>, machineCore, quantumCore], [netherStar, netherStar, netherStar]]);
+//The above line was commented out because the mod registering the item for which a recipe is being added or removed (ChromatiCraft) has requested not to allow this. See your logs for more information, including on who to go to if you have further questions.
 
 #recipes.addShaped(<Mekanism:CardboardBox>, [[, null, ], [null, , null], [, null, ]]);
 

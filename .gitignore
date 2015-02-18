@@ -232,3 +232,5 @@ natives/
 *.json
 minecraft/mods/ruins_log.txt
 minecraft/usernamecache.json
+minecraft/stats/player.uid
+minecraft/usernamecache.json
